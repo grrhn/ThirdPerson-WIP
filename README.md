@@ -12,7 +12,7 @@
   "OnActivated": "Third Person Activated",
   "OnDeactivated": "Third Person Deactivated",
   "NoPermission": "You dont have to access this command.",
-  "Prefix": " [ {DARKRED}Third Person {DEFAULT}] ",
+  "Prefix": " [{DARKRED}Third Person {DEFAULT}] ",
   "UseOnlyAdmin": false,
   "OnlyAdminFlag": "@css/slay",
   "UseSmoothCam": true,
